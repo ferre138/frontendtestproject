@@ -1,6 +1,19 @@
 .hero-video{
-	background-image: "images/Desert.jpg";
+	background-image: url("images/Desert.jpg");
 	background-position: center;
+	background-size: cover;
 	color: white;
-	max-height: 
+	height: 400px;
+}
+
+.col-lg-12{
+	text-align: center;
+	margin-top: 160px;
+	text-transform: uppercase;
+}
+
+.title{
+	text-align: center;
+	padding: 20px;
+	text-transform: uppercase;
 }
